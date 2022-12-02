@@ -1,0 +1,16 @@
+> reverse@1.0.0 test
+> jest
+
+ PASS  tests/reverse.test.js
+  √ mario  is expected to convert to oiram (2 ms)
+  √ parmezana  is expected to convert to anazemrap (1 ms)
+  √ A beautiful day  is expected to convert to yad lufituaeb A (3 ms)
+  √ abba  is expected to convert to abba (1 ms)
+  √ kayak  is expected to convert to kayak (1 ms)
+  √ itopinonavevanonipoti  is expected to convert to itopinonavevanonipoti
+
+Test Suites: 1 passed, 1 total
+Tests:       6 passed, 6 total
+Snapshots:   0 total
+Time:        0.556 s, estimated 1 s
+Ran all test suites.

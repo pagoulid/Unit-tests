@@ -1,0 +1,21 @@
+> capitalize@1.0.0 test
+> jest
+
+ PASS  tests/capitalize.test.js
+  √ mario  is expected to convert to Mario (2 ms)
+  √ Mario  remains Mario (1 ms)
+  √ 64 days to IPcalypse string  is expected to convert to 64 Days to IPcalypse
+  √ 64 Days to IPcalypse string  remains  64 Days to IPcalypse (1 ms)
+  √ ---- perfecto ---- is expected to convert to ---- Perfecto ----  (1 ms)
+  √ ---- Perfecto ---- remains ---- Perfecto ----
+  √ (!@$%^&*<test string>!@$%^&*) is expected to convert to (!@$%^&*<Test string>!@$%^&*)
+  √ (!@$%^&*<Test string>!@$%^&*) remains (!@$%^&*<Test string>!@$%^&*)  (1 ms)
+  √ t-bag is expected to convert to T-bag  (1 ms)
+  √ 12345 x 6789 is expected to convert to 12345 X 6789  (1 ms)
+  √ 123#$%t is expected to convert to 123#$%T (1 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       11 passed, 11 total
+Snapshots:   0 total
+Time:        0.624 s
+Ran all test suites.

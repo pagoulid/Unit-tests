@@ -1,0 +1,25 @@
+ PASS  tests/cipher.test.js
+  √ abc is expected to result to bcd (2 ms)
+  √ abc (shifted by 5) is expected to result to fgh
+  √ abc (shifted by 10) is expected to result to klm
+  √ abc (shifted by 25) is expected to result to zab
+  √ aBwZ is expected to be bCxA
+  √ aBwZ (shifted by 5) is expected to be fGbE
+  √ aBwZ (shifted by 10) is expected to be kLgJ
+  √ aBwZ (shifted by 10) is expected to be pQlO
+  √ aBwZ (shifted by 22) is expected to be wXsV
+  √ attack at dawn is expected to result to buubdl bu ebxo
+  √ attack at dawn (shifted by 5) is expected to result to fyyfhp fy ifbs
+  √ attack at dawn (shifted by 10) is expected to result to kddkmu kd nkgx
+  √ attack at dawn (shifted by 19) is expected to result to tmmtvd tm wtpg
+  √ !!!Project: Virtual-Library!!! is expected to result to !!!Qspkfdu: Wjsuvbm-Mjcsbsz!!!
+  √ !!!Project: Virtual-Library!!! (shifted by 5) is expected to result to !!!Uwtojhy: Anwyzfq-Qngwfwd!!!
+  √ !!!Project: Virtual-Library!!! (shifted by 10) is expected to result to !!!Zbytomd: Fsbdekv-Vslbkbi!!! (1 ms)
+  √ !!!Project: Virtual-Library!!! (shifted by 18) is expected to result to !!!Hjgbwul: Najlmsd-Datjsjq!!!
+  √ !!!Project: Virtual-Library!!! (shifted by 25) is expected to result to !!!Oqnidbs: Uhqstzk-Khaqzqx!!! (1 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       18 passed, 18 total
+Snapshots:   0 total
+Time:        0.553 s, estimated 1 s
+Ran all test suites.

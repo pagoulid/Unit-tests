@@ -1,0 +1,87 @@
+ PASS  tests/calc.test.js
+  √ 51+95  is expected to result to 146 (1 ms)
+  √ 51-95 is expected to result to -44
+  √ 51*95  is expected to result to 4.845 (1 ms)
+  √ 51/95  is expected to result to 0,537 (1 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       4 passed, 4 total
+Snapshots:   0 total
+Time:        0.461 s, estimated 2 s
+
+
+ PASS  tests/calc2.test.js
+  √ 95+51  is expected to result to 146 (3 ms)
+  √ 95-51  is expected to result to 44 (1 ms)
+  √ 95*51  is expected to result to 4.845 (1 ms)
+  √ 95/51  is expected to result to 1,863
+
+Test Suites: 1 passed, 1 total
+Tests:       4 passed, 4 total
+Snapshots:   0 total
+Time:        0.48 s, estimated 1 s
+
+ PASS  tests/calc3.test.js
+  √ -51+95  is expected to result to 44 (2 ms)
+  √ -51-95  is expected to result to -146 (1 ms)
+  √ -51*95  is expected to result to -4.845
+  √ -51/95  is expected to result to -0,537
+
+Test Suites: 1 passed, 1 total
+Tests:       4 passed, 4 total
+Snapshots:   0 total
+Time:        0.506 s, estimated 1 s
+
+ PASS  tests/calc4.test.js
+  √ 95-51  is expected to result to 44 (2 ms)
+  √ 95-(-51) is expected to result to 146
+  √ 95*(-51)  is expected to result to -4.845
+  √ 95/(-51)  is expected to result to -1,863
+
+Test Suites: 1 passed, 1 total
+Tests:       4 passed, 4 total
+Snapshots:   0 total
+Time:        0.478 s, estimated 1 s
+
+ PASS  tests/calc5.test.js
+  √ 51-95  is expected to result to -44 (2 ms)
+  √ 51-(-95) is expected to result to 146 (1 ms)
+  √ 51*(-95)  is expected to result to -4.845 (1 ms)
+  √ 51/(-95)  is expected to result to -0,537
+
+Test Suites: 1 passed, 1 total
+Tests:       4 passed, 4 total
+Snapshots:   0 total
+Time:        0.468 s, estimated 1 s
+
+ PASS  tests/calc6.test.js
+  √ -51-95  is expected to result to -146 (2 ms)
+  √ -51-(-95) is expected to result to 44
+  √ (-51)*(-95)  is expected to result to 4.845
+  √ (-51)/(-95)  is expected to result to 0,537
+
+Test Suites: 1 passed, 1 total
+Tests:       4 passed, 4 total
+Snapshots:   0 total
+Time:        0.519 s, estimated 1 s
+
+ PASS  tests/calc7.test.js
+  √ -95-51  is expected to result to -146 (2 ms)
+  √ -95-(-51) is expected to result to -44 (1 ms)
+  √ (-95)*(-51)  is expected to result to 4.845 (1 ms)
+  √ (-95)/(-51)  is expected to result to 1,863 (1 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       4 passed, 4 total
+Snapshots:   0 total
+Time:        0.494 s, estimated 2 s
+
+ PASS  tests/calcErr.test.js
+  √ 0/95  is expected to result to 0 (1 ms)
+  √ 0/0  is expected to result to Non-defined (1 ms)
+  √ 95/0  is expected to result to Error: Division by zero
+
+Test Suites: 1 passed, 1 total
+Tests:       3 passed, 3 total
+Snapshots:   0 total
+Time:        0.47 s, estimated 2 s
